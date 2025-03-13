@@ -32,7 +32,7 @@
 
 ## 📫 Let's Connect!  
 <p align="left">
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/Gayatri4-kesina" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/gayathri-kesina-012b6a254/">
