@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
 
-<!--
-**Gayatri4-kesina/Gayatri4-kesina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>🚀 Passionate about Networking, Machine Learning, and IoT!</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Projects  
+📌 <b>Configuration of DNS in Cisco Packet Tracer</b>  
+➡️ Set up and configured a DNS server for seamless network communication.  
+
+📌 <b>Drowsiness Detection using SVM</b>  
+➡️ Implemented an ML model to detect driver drowsiness using SVM.  
+
+📌 <b>RFID Attendance System</b>  
+➡️ Developed an IoT-based attendance system using RFID & Google Sheets.  
+
+---
+
+## 🚀 Skills  
+✔️ **Networking** (Cisco Packet Tracer)  
+✔️ **Machine Learning** (SVM, OpenCV)  
+✔️ **IoT & Embedded Systems** (ESP8266, RFID)  
+✔️ **Cloud Integration** (Google Apps Script)  
+
+---
+
+## 📫 Let's Connect!  
+<p align="left">
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
